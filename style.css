@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  color: #de78a4;
+  border: 3px dotted #a981bb;
+}
+
+h2 {
+  color: #5d62ee
+}
+strong {
+  color: #5d62ee
+}
+p {
+  background-color: #f0f0ff;
+  padding: 3px 15px;
+  width: 600px
+  display: block;
+  margin: 0px;
+}
